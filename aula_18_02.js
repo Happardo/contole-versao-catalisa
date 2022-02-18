@@ -1,22 +1,22 @@
 const array = [
     {
         nome: "banana" ,
-        eCitrica: false, 
+        citrica: false, 
     },
     {
         nome: "abacate" ,
-        eCitrica: false, 
+        citrica: false, 
     },  
     {
         nome: "limão" ,
-        eCitrica: true, 
+        citrica: true, 
     },      
     {
         nome: "laranja" ,
-        eCitrica: true, 
+        citrica: true, 
     },    
     {
         nome: "manga" ,
-        eCitrica: false, 
+        citrica: false, 
     }    
 ];
