@@ -11,6 +11,6 @@ Até o momento foram aprendidos os seguintes comando:
 - `git status`
 - `git --help`
 - `git add`
-- `gitcommit -m "mensagem`
+- `gitcommit -m "mensagem"`
 - `git push`
 - `git pull`
